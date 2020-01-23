@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="911f6aa1-7f3f-4952-8b3e-8ff4c4c1a279" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579813716794</updated>
       <workItem from="1579813718204" duration="1678000" />
-      <workItem from="1579815438943" duration="155000" />
+      <workItem from="1579815438943" duration="1146000" />
     </task>
     <servers />
   </component>
@@ -108,10 +107,10 @@
       <screen x="0" y="25" width="1920" height="1022" />
     </state>
     <state x="646" y="274" width="628" height="528" key="find.popup/0.25.1920.1022/0.25.1920.1022@0.25.1920.1022" timestamp="1579814777278" />
-    <state width="300" height="141" key="javadoc.popup.new" timestamp="1579815488368">
+    <state width="300" height="141" key="javadoc.popup.new" timestamp="1579816583785">
       <screen x="0" y="25" width="1920" height="1022" />
     </state>
-    <state width="300" height="141" key="javadoc.popup.new/0.25.1920.1022/0.25.1920.1022@0.25.1920.1022" timestamp="1579815488368" />
+    <state width="300" height="141" key="javadoc.popup.new/0.25.1920.1022/0.25.1920.1022@0.25.1920.1022" timestamp="1579816583785" />
     <state x="623" y="250" key="search.everywhere.popup" timestamp="1579815315178">
       <screen x="0" y="25" width="1920" height="1022" />
     </state>

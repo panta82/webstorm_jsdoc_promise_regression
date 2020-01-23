@@ -1,4 +1,4 @@
-const {makeWidget} = require('widgets');
+const {makeWidget} = require('./widgets');
 
 function main() {
   // No hint
