@@ -1,4 +1,4 @@
-# Webstorm JSDoc problem demo
+# Webstorm jsdoc promise regression
 
 Without a hint:
 
